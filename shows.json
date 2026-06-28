@@ -1,0 +1,43 @@
+[
+  {
+    "id": "al-1",
+    "classification": 0,
+    "providerIds": {
+      "Custom": "al-1"
+    },
+    "name": "The HazBeans"
+  },
+  {
+    "id": "al-1-s01",
+    "classification": 3,
+    "seriesProviderIds": {
+      "Custom": "al-1"
+    },
+    "indexNumber": 1,
+    "name": "Season 1"
+  },
+  {
+    "id": "al-1-s01e01",
+    "classification": 4,
+    "seriesProviderIds": {
+      "Custom": "al-1"
+    },
+    "parentIndexNumber": 1,
+    "indexNumber": 1,
+    "name": "Episode 1",
+    "seriesName": "The HazBeans",
+    "seasonName": "Season 1"
+  },
+  {
+    "id": "al-1-s01e02",
+    "classification": 4,
+    "seriesProviderIds": {
+      "Custom": "al-1"
+    },
+    "parentIndexNumber": 1,
+    "indexNumber": 2,
+    "name": "Episode 2",
+    "seriesName": "The HazBeans",
+    "seasonName": "Season 1"
+  }
+]
